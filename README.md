@@ -1,0 +1,13 @@
+# TALLER DE GIT
+
+### NOMBRE: 
+
+PEDRO PANJÓN
+
+### MATERIA:
+
+ESTRUCTURA DE DATOS
+
+### ACTIVIDAD
+
+SACAR 10 en la actividad
